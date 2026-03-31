@@ -8,7 +8,7 @@ Excel-based dashboards analyzing sales performance, KPIs, and business trends us
 ## 📁 Dataset
 **File:** `Insurance_Data.xlsx`  
 **Records:** 2,000 claims | **Columns:** 23 (19 original + 4 calculated)  
-**Source:** BLUE KWET Management Consultancies CO LLC (UAE)
+**Source:** (UAE)
 
 ---
 
